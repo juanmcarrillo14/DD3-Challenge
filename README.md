@@ -6,7 +6,7 @@ Dentro de este repo, encontrarás la estructura de trabajo y una breve explicaci
 ## Información general
 ![](https://static.wixstatic.com/media/96edd2_47b39551f5224371819f5d96b8e5ceb6~mv2.png/v1/fit/w_1000%2Ch_862%2Cal_c/file.png)
 
-![](https://img.shields.io/github/stars/juanmcarrillo14/Business-Analytics?style=social) ![](https://img.shields.io/badge/Creador-Juan-red) ![](https://img.shields.io/badge/Pais-Mexico-green)
+![](https://img.shields.io/github/stars/juanmcarrillo14/DD3-Challenge?style=social) ![](https://img.shields.io/badge/Creador-Juan-red) ![](https://img.shields.io/badge/Pais-Mexico-green)
 
 **Twitter: @juanhernandez9
 Location: Zapopan, Jalisco**
