@@ -82,5 +82,5 @@ label = np.array(['Precio m2 Cuadrado'])
 
 # diseño
 st.subheader('Resultado')
-st.write(prediction)
+st.write(prediction/input_df['m2'])
 
