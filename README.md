@@ -24,7 +24,7 @@ DD3-Challenge
 |  |   requirements.txt
 |  |   ml-app.py
 |  |   modelo
-|  |   app.png
+|  |   app_d.png
 |
 ────README.md
 ```
@@ -40,7 +40,7 @@ ddtres_data |  Base de datos creada localmente.
 requirements.txt | Archivo de texto para llevar acabo instalación de dependencias.  
 ml-app.py | Aplicación en la nube que estima el valor de la residencia por m2. 
 modelo | Archivo formato pickle el cual contiene al modelo serializado. 
-app.png | Ilustración del modelo en producción en aplicacion web local. 
+app_d.png | Ilustración del modelo en producción en aplicacion web local. 
 
 
 # ¡Disfruta este proyecto!
