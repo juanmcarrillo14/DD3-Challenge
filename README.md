@@ -46,5 +46,5 @@ app.png | Ilustración del modelo en producción en aplicacion web local.
 # ¡Disfruta este proyecto!
 
 **App interactiva.**
-![](ds/app.png)
+![](ds/app_d.png)
 
